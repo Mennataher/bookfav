@@ -8,7 +8,7 @@ const app = Vue.createApp({
                 { title: " Don Quixote ", auther: "Miguel de Cervantes", isfav: true, img: "imm/im3.jpg" },
                 { title: " One Hundred Years of Solitude ", auther: "Gabriel Garcia Marquez", isfav: false, img: "imm/im4.jpg" },
             ],
-            url: "https://www.facebook.com/"
+            url: "https://thegreatestbooks.org/"
         }
     },
     methods: {
